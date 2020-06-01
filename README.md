@@ -10,3 +10,8 @@ A simple 2D game made in C++ using SFML library
 ![alt text](https://github.com/asaxena012/TimberMan/blob/master/Screenshots/vlcsnap-2020-06-01-18h53m26s258.png "Squished")
 
 ![alt text](https://github.com/asaxena012/TimberMan/blob/master/Screenshots/vlcsnap-2020-06-01-18h53m42s838.png "Out of time")
+
+### Requirements
+#### Must have (Dependencies)
+
+* SFML 2.4.0 or above - http://www.sfml-dev.org/
